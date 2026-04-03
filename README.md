@@ -9,7 +9,7 @@ Experienced Software Engineer with deep expertise in designing, developing, and 
 ## About Me
 - <p style="font-size: 20px">Currently working on: Sr Fullstack Developer</p>
 - <p style="font-size: 20px">Currently learning: Gen AI</p>
-- <p style="font-size: 20px">Mail: solsticemalonemdryt41697@outlook.com</p>
+- <p style="font-size: 20px">Mail: hshark331@gmail.com/p>
 
 ## Tech Stack:
 
